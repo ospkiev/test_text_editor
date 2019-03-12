@@ -5,6 +5,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "draft-js": "^0.10.5",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-animated-tree": "^1.0.10",
     "react-dom": "^16.8.3",
@@ -13,6 +14,8 @@
     "react-treebeard": "^3.1.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -26,5 +29,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "homepage": "https://myusername.github.io/test_text_editor"
 }

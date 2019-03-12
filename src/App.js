@@ -3,7 +3,6 @@ import axios from 'axios';
 import './App.css';
 
 
-
 class App extends Component {
 
   state = {
@@ -16,7 +15,7 @@ class App extends Component {
 
   getSyn = () => {
     let synWord = this.state.selectWord;
-    axios.get(`https://api.datamuse.com//words?rel_syn=${synWord}`)
+    axios.get(`https://api.datamuse.com/words?rel_syn=${synWord}`)
       .then(res => res.data)
       .then(res => {
         this.setState({

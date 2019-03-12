@@ -1,13 +1,13 @@
 {
   "main.css": "/test_text_editor/static/css/main.87112c23.chunk.css",
-  "main.js": "/test_text_editor/static/js/main.edd27d2f.chunk.js",
-  "main.js.map": "/test_text_editor/static/js/main.edd27d2f.chunk.js.map",
+  "main.js": "/test_text_editor/static/js/main.e4b68925.chunk.js",
+  "main.js.map": "/test_text_editor/static/js/main.e4b68925.chunk.js.map",
   "runtime~main.js": "/test_text_editor/static/js/runtime~main.84436264.js",
   "runtime~main.js.map": "/test_text_editor/static/js/runtime~main.84436264.js.map",
   "static/js/2.1cf634af.chunk.js": "/test_text_editor/static/js/2.1cf634af.chunk.js",
   "static/js/2.1cf634af.chunk.js.map": "/test_text_editor/static/js/2.1cf634af.chunk.js.map",
   "index.html": "/test_text_editor/index.html",
-  "precache-manifest.2aef4a3541d96830da00c45f55797a82.js": "/test_text_editor/precache-manifest.2aef4a3541d96830da00c45f55797a82.js",
+  "precache-manifest.896ef8d59937cfab42c7e36342474936.js": "/test_text_editor/precache-manifest.896ef8d59937cfab42c7e36342474936.js",
   "service-worker.js": "/test_text_editor/service-worker.js",
   "static/css/main.87112c23.chunk.css.map": "/test_text_editor/static/css/main.87112c23.chunk.css.map"
 }

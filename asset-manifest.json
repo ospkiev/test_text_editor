@@ -1,13 +1,13 @@
 {
   "main.css": "/test_text_editor/static/css/main.37c4bb3d.chunk.css",
-  "main.js": "/test_text_editor/static/js/main.04c37c8c.chunk.js",
-  "main.js.map": "/test_text_editor/static/js/main.04c37c8c.chunk.js.map",
+  "main.js": "/test_text_editor/static/js/main.09fc854c.chunk.js",
+  "main.js.map": "/test_text_editor/static/js/main.09fc854c.chunk.js.map",
   "runtime~main.js": "/test_text_editor/static/js/runtime~main.84436264.js",
   "runtime~main.js.map": "/test_text_editor/static/js/runtime~main.84436264.js.map",
   "static/js/2.1cf634af.chunk.js": "/test_text_editor/static/js/2.1cf634af.chunk.js",
   "static/js/2.1cf634af.chunk.js.map": "/test_text_editor/static/js/2.1cf634af.chunk.js.map",
   "index.html": "/test_text_editor/index.html",
-  "precache-manifest.2187907951c5e32324c4cb7a150c858a.js": "/test_text_editor/precache-manifest.2187907951c5e32324c4cb7a150c858a.js",
+  "precache-manifest.004eefcd6da42e4de53cf9026a82482c.js": "/test_text_editor/precache-manifest.004eefcd6da42e4de53cf9026a82482c.js",
   "service-worker.js": "/test_text_editor/service-worker.js",
   "static/css/main.37c4bb3d.chunk.css.map": "/test_text_editor/static/css/main.37c4bb3d.chunk.css.map"
 }
